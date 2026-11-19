@@ -68,7 +68,7 @@ git config --global ...
 
 3.创建初始文件夹
 
-<img width="1100" height="200" alt="image" src="https://github.com/user-attachments/assets/3ff32697-d3c9-40c2-aa9e-175d7df32b04" />
+<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/3ff32697-d3c9-40c2-aa9e-175d7df32b04" />
 
 4.创建hello.md
 

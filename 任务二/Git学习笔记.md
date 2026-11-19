@@ -59,11 +59,11 @@ git config --global ...
 
 必须建在家目录下👇
 
-<img width="2530" height="1510" alt="image" src="https://github.com/user-attachments/assets/3c36cafd-7e5f-414e-ad46-4bd4a9f937e6" />
+<img width="2530" height="300" alt="image" src="https://github.com/user-attachments/assets/3c36cafd-7e5f-414e-ad46-4bd4a9f937e6" />
 
 
 内容如下
-<img width="1062" height="214" alt="image" src="https://github.com/user-attachments/assets/d6061714-4727-4c89-91af-f7c36f04cf0d" />
+<img width="1062" height="150" alt="image" src="https://github.com/user-attachments/assets/d6061714-4727-4c89-91af-f7c36f04cf0d" />
 
 
 3.创建初始文件夹
@@ -72,16 +72,16 @@ git config --global ...
 
 4.创建hello.md
 
-<img width="1100" height="200" alt="屏幕截图 2026-11-19 214720" src="https://github.com/user-attachments/assets/8f3b9f4c-d024-4a40-b2f8-de941b249cb3" />
+<img width="1100" height="150" alt="屏幕截图 2026-11-19 214720" src="https://github.com/user-attachments/assets/8f3b9f4c-d024-4a40-b2f8-de941b249cb3" />
 
 使用add 与 commit 看看状态
 
-<img width="762" height="344" alt="屏幕截图 2026-11-19 220326" src="https://github.com/user-attachments/assets/1eee62b2-71ea-457d-9ec5-80f0869876eb" />
+<img width="900" height="150" alt="屏幕截图 2026-11-19 220326" src="https://github.com/user-attachments/assets/1eee62b2-71ea-457d-9ec5-80f0869876eb" />
 
-<img width="926" height="336" alt="屏幕截图 2026-11-19 220337" src="https://github.com/user-attachments/assets/b84fdbc7-e979-4032-bfc8-041b28b02f8f" />
+<img width="900" height="150" alt="屏幕截图 2026-11-19 220337" src="https://github.com/user-attachments/assets/b84fdbc7-e979-4032-bfc8-041b28b02f8f" />
 
 编辑一下
-<img width="1244" height="352" alt="屏幕截图 2026-11-19 221801" src="https://github.com/user-attachments/assets/5b8c31df-b62b-483d-92b9-8776eb396fba" />
+<img width="900" height="150" alt="屏幕截图 2026-11-19 221801" src="https://github.com/user-attachments/assets/5b8c31df-b62b-483d-92b9-8776eb396fba" />
 
 
 

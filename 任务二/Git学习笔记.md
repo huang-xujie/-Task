@@ -51,7 +51,7 @@ graph LR
 
 git config --global ...
 
-![image-20261119214142624](C:\Users\hxj25\AppData\Roaming\Typora\typora-user-images\image-20261119214142624.png)
+任务二/imglib/屏幕截图 2026-11-19 213953.png
 
 2.创建 ~/.bashrc
 

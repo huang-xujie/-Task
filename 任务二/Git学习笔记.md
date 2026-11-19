@@ -43,6 +43,8 @@ graph LR
 
 7.push(推送):修改完成后,需要和团队成员共享代码时,将代码推送到远程仓库
 
+8.status(状态）:查看当前文件的状态
+
 
 
 ## 4.My way to learn git

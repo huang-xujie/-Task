@@ -51,7 +51,8 @@ graph LR
 
 git config --global ...
 
-任务二/imglib/屏幕截图 2026-11-19 213953.png
+<img width="1100" height="200" alt="image" src="https://github.com/user-attachments/assets/0924a018-a5c3-4d02-96bf-32470e6a46af" />
+
 
 2.创建 ~/.bashrc
 

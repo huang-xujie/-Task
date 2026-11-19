@@ -51,17 +51,22 @@ graph LR
 
 git config --global ...
 
-<img width="1100" height="200" alt="image" src="https://github.com/user-attachments/assets/0924a018-a5c3-4d02-96bf-32470e6a46af" />
+<img width="880" height="152" alt="image" src="https://github.com/user-attachments/assets/c3441ee2-9c80-4901-a564-de08f6b0edfa" />
+
 
 
 2.创建 ~/.bashrc
 
 必须建在家目录下👇
 
-![屏幕截图 2026-11-19 214325](C:\Users\hxj25\Pictures\Screenshots\屏幕截图 2026-11-19 214325.png)
+<img width="2530" height="1510" alt="image" src="https://github.com/user-attachments/assets/3c36cafd-7e5f-414e-ad46-4bd4a9f937e6" />
 
-内容如下![屏幕截图 2026-11-19 214523](C:\Users\hxj25\Pictures\Screenshots\屏幕截图 2026-11-19 214523.png)
+
+内容如下
+<img width="1062" height="214" alt="image" src="https://github.com/user-attachments/assets/d6061714-4727-4c89-91af-f7c36f04cf0d" />
+
 
 3.创建初始文件夹
 
-![屏幕截图 2026-11-19 214720](C:\Users\hxj25\Pictures\Screenshots\屏幕截图 2026-11-19 214720.png)
+<img width="1100" height="200" alt="image" src="https://github.com/user-attachments/assets/3ff32697-d3c9-40c2-aa9e-175d7df32b04" />
+

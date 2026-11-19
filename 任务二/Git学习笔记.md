@@ -70,3 +70,10 @@ git config --global ...
 
 <img width="1100" height="200" alt="image" src="https://github.com/user-attachments/assets/3ff32697-d3c9-40c2-aa9e-175d7df32b04" />
 
+4.创建hello.md
+<img width="1100" height="200" alt="屏幕截图 2026-11-19 214720" src="https://github.com/user-attachments/assets/8f3b9f4c-d024-4a40-b2f8-de941b249cb3" />
+使用add 与 commit 看看状态
+<img width="762" height="344" alt="屏幕截图 2026-11-19 220326" src="https://github.com/user-attachments/assets/1eee62b2-71ea-457d-9ec5-80f0869876eb" />
+<img width="926" height="336" alt="屏幕截图 2026-11-19 220337" src="https://github.com/user-attachments/assets/b84fdbc7-e979-4032-bfc8-041b28b02f8f" />
+
+

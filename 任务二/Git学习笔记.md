@@ -80,8 +80,11 @@ alias ll='ls -al'
 
 <img width="900" height="200" alt="屏幕截图 2026-11-19 220337" src="https://github.com/user-attachments/assets/b84fdbc7-e979-4032-bfc8-041b28b02f8f" />
 
+
 编辑一下
+
 <img width="900" height="150" alt="屏幕截图 2026-11-19 221801" src="https://github.com/user-attachments/assets/5b8c31df-b62b-483d-92b9-8776eb396fba" />
 
+然后使用git push -u origin master 命令提交hello.md
 
 

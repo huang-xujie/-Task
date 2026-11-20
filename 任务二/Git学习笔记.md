@@ -87,4 +87,7 @@ alias ll='ls -al'
 
 然后使用git push -u origin master 命令提交hello.md
 
+<img width="2880" height="1620" alt="屏幕截图 2026-11-20 211444" src="https://github.com/user-attachments/assets/36729169-879d-44f8-8d94-489865063e32" />
+
+到此为止就完成任务了
 

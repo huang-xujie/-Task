@@ -1,3 +1,5 @@
+<img width="2880" height="1620" alt="屏幕截图 2026-11-23 232355" src="https://github.com/user-attachments/assets/86c746bf-e143-48f8-8e2f-77bef9a07602" />
+<img width="2880" height="1620" alt="屏幕截图 2026-11-23 231648" src="https://github.com/user-attachments/assets/43b27345-4cef-4b3c-a315-551ec923817b" />
 # HTML学习笔记
 
 
@@ -56,7 +58,10 @@ button 与 input 差不多，都是提供一个按键用于完成文件上传的
 
 同时也是黑客最喜欢的html元素之一，这是这不起眼小按钮提供了黑客与前端交互的窗口，从而产生很多有意思的事情。
 
+<img width="2880" height="1620" alt="屏幕截图 2026-11-23 231648" src="https://github.com/user-attachments/assets/deebbadb-81c7-4a13-976f-4b880b781f7f" />
 
+
+<img width="2880" height="1620" alt="屏幕截图 2026-11-23 232355" src="https://github.com/user-attachments/assets/ea032784-4675-4fdb-ada9-caf41d78780c" />
 
 
 

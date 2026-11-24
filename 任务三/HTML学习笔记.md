@@ -1,5 +1,4 @@
-<img width="2880" height="1620" alt="屏幕截图 2026-11-23 232355" src="https://github.com/user-attachments/assets/86c746bf-e143-48f8-8e2f-77bef9a07602" />
-<img width="2880" height="1620" alt="屏幕截图 2026-11-23 231648" src="https://github.com/user-attachments/assets/43b27345-4cef-4b3c-a315-551ec923817b" />
+
 # HTML学习笔记
 
 
